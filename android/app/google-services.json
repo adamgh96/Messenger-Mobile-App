@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043219124424",
+    "project_id": "messengerapp-7a537",
+    "storage_bucket": "messengerapp-7a537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043219124424:android:a1f61c8a92c9a88e8115fd",
+        "android_client_info": {
+          "package_name": "com.adem.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043219124424-utjrc7vvpe3mus5s1h22rhi02mte0da0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRVn31S5tQIdB2oOK1jq531BQZ_0S3VVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043219124424-utjrc7vvpe3mus5s1h22rhi02mte0da0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
